@@ -1,6 +1,6 @@
 # Time Cents
 
-This shows the time in percent (percent of the day).
+This shows the time in percent of the day.
 
 
 
